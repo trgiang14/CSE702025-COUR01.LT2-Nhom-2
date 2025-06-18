@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products>
+    <product>
+        <productExpiredDate>28-05-2026</productExpiredDate>
+        <id>PRD001</id>
+        <price>15000</price>
+        <productCategory>Nước uống</productCategory>
+        <productName>Coca Cola</productName>
+        <productSupplier>Công ty Coca Cola Việt Nam</productSupplier>
+        <quantity>131</quantity>
+    </product>
+    <product>
+        <productExpiredDate>15-08-2025</productExpiredDate>
+        <id>PRD002</id>
+        <price>12000</price>
+        <productCategory>Nước uống</productCategory>
+        <productName>Pepsi</productName>
+        <productSupplier>Công ty PepsiCo Việt Nam</productSupplier>
+        <quantity>105</quantity>
+    </product>
+    <product>
+        <productExpiredDate>20-12-2025</productExpiredDate>
+        <id>PRD003</id>
+        <price>8000</price>
+        <productCategory>Nước uống</productCategory>
+        <productName>Aquafina</productName>
+        <productSupplier>Công ty PepsiCo Việt Nam</productSupplier>
+        <quantity>179</quantity>
+    </product>
+    <product>
+        <productExpiredDate>10-06-2025</productExpiredDate>
+        <id>PRD004</id>
+        <price>25000</price>
+        <productCategory>Bánh kẹo</productCategory>
+        <productName>Bánh Oreo</productName>
+        <productSupplier>Công ty Mondelez Việt Nam</productSupplier>
+        <quantity>63</quantity>
+    </product>
+    <product>
+        <productExpiredDate>05-07-2025</productExpiredDate>
+        <id>PRD005</id>
+        <price>18000</price>
+        <productCategory>Bánh kẹo</productCategory>
+        <productName>Kẹo Mentos</productName>
+        <productSupplier>Công ty Van Melle Việt Nam</productSupplier>
+        <quantity>77</quantity>
+    </product>
+    <product>
+        <productExpiredDate>30-09-2025</productExpiredDate>
+        <id>PRD006</id>
+        <price>35000</price>
+        <productCategory>Bánh kẹo</productCategory>
+        <productName>Chocolate Ferrero</productName>
+        <productSupplier>Công ty Ferrero Việt Nam</productSupplier>
+        <quantity>53</quantity>
+    </product>
+    <product>
+        <productExpiredDate>25-11-2025</productExpiredDate>
+        <id>PRD007</id>
+        <price>4500</price>
+        <productCategory>Mì ăn liền</productCategory>
+        <productName>Mì Hảo Hảo</productName>
+        <productSupplier>Công ty Acecook Việt Nam</productSupplier>
+        <quantity>260</quantity>
+    </product>
+    <product>
+        <productExpiredDate>18-10-2025</productExpiredDate>
+        <id>PRD008</id>
+        <price>5000</price>
+        <productCategory>Mì ăn liền</productCategory>
+        <productName>Mì Kokomi</productName>
+        <productSupplier>Công ty Acecook Việt Nam</productSupplier>
+        <quantity>210</quantity>
+    </product>
+    <product>
+        <productExpiredDate>12-08-2025</productExpiredDate>
+        <id>PRD009</id>
+        <price>6000</price>
+        <productCategory>Mì ăn liền</productCategory>
+        <productName>Mì Omachi</productName>
+        <productSupplier>Công ty Masan</productSupplier>
+        <quantity>140</quantity>
+    </product>
+    <product>
+        <productExpiredDate>22-06-2025</productExpiredDate>
+        <id>PRD010</id>
+        <price>45000</price>
+        <productCategory>Sữa</productCategory>
+        <productName>Sữa Vinamilk</productName>
+        <productSupplier>Công ty Vinamilk</productSupplier>
+        <quantity>85</quantity>
+    </product>
+    <product>
+        <productExpiredDate>28-07-2025</productExpiredDate>
+        <id>PRD011</id>
+        <price>42000</price>
+        <productCategory>Sữa</productCategory>
+        <productName>Sữa TH True Milk</productName>
+        <productSupplier>Công ty TH</productSupplier>
+        <quantity>73</quantity>
+    </product>
+    <product>
+        <productExpiredDate>15-09-2025</productExpiredDate>
+        <id>PRD012</id>
+        <price>38000</price>
+        <productCategory>Sữa</productCategory>
+        <productName>Sữa Dutch Lady</productName>
+        <productSupplier>Công ty Dutch Lady Việt Nam</productSupplier>
+        <quantity>53</quantity>
+    </product>
+    <product>
+        <productExpiredDate>10-10-2025</productExpiredDate>
+        <id>PRD013</id>
+        <price>28000</price>
+        <productCategory>Gia vị</productCategory>
+        <productName>Nước mắm Nam Ngư</productName>
+        <productSupplier>Công ty Nam Ngư</productSupplier>
+        <quantity>77</quantity>
+    </product>
+    <product>
+        <productExpiredDate>05-11-2025</productExpiredDate>
+        <id>PRD014</id>
+        <price>22000</price>
+        <productCategory>Gia vị</productCategory>
+        <productName>Tương ớt Chin-su</productName>
+        <productSupplier>Công ty Masan</productSupplier>
+        <quantity>100</quantity>
+    </product>
+    <product>
+        <productExpiredDate>20-08-2025</productExpiredDate>
+        <id>PRD015</id>
+        <price>15000</price>
+        <productCategory>Gia vị</productCategory>
+        <productName>Dầu ăn Neptune</productName>
+        <productSupplier>Công ty Wilmar</productSupplier>
+        <quantity>90</quantity>
+    </product>
+    <product>
+        <productExpiredDate>15-12-2025</productExpiredDate>
+        <id>PRD016</id>
+        <price>150000</price>
+        <productCategory>Thực phẩm cao cấp</productCategory>
+        <productName>Thịt bò Wagyu</productName>
+        <productSupplier>Công ty Food Luxury</productSupplier>
+        <quantity>50</quantity>
+    </product>
+    <product>
+        <productExpiredDate>20-10-2025</productExpiredDate>
+        <id>PRD017</id>
+        <price>80000</price>
+        <productCategory>Thực phẩm cao cấp</productCategory>
+        <productName>Cá hồi Na Uy</productName>
+        <productSupplier>Công ty SeaFood Import</productSupplier>
+        <quantity>120</quantity>
+    </product>
+    <product>
+        <productExpiredDate>25-11-2025</productExpiredDate>
+        <id>PRD018</id>
+        <price>200000</price>
+        <productCategory>Thực phẩm cao cấp</productCategory>
+        <productName>Truffle đen</productName>
+        <productSupplier>Công ty Luxury Foods</productSupplier>
+        <quantity>25</quantity>
+    </product>
+    <product>
+        <productExpiredDate>18-06-2025</productExpiredDate>
+        <id>PRD67919</id>
+        <price>1.0</price>
+        <productCategory>123</productCategory>
+        <productName>123</productName>
+        <productSupplier>123</productSupplier>
+        <quantity>0</quantity>
+    </product>
+    <product>
+        <productExpiredDate>18-10-2025</productExpiredDate>
+        <id>PRD008</id>
+        <price>5000.0</price>
+        <productCategory>Mì ăn liền</productCategory>
+        <productName>Mì Kokomi</productName>
+        <productSupplier>Công ty Acecook Việt Nam</productSupplier>
+        <quantity>210</quantity>
+    </product>
+</products>
