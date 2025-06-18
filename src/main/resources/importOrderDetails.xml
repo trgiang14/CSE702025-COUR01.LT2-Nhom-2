@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<importOrderDetails>
+    <importOrderDetail>
+        <id>IMP001</id>
+        <importOrderId>PN001</importOrderId>
+        <productId>PRD001</productId>
+        <productName>Coca Cola</productName>
+        <quantity>20</quantity>
+        <totalPrice>240000</totalPrice>
+        <unitPrice>12000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP002</id>
+        <importOrderId>PN001</importOrderId>
+        <productId>PRD002</productId>
+        <productName>Pepsi</productName>
+        <quantity>25</quantity>
+        <totalPrice>250000</totalPrice>
+        <unitPrice>10000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP003</id>
+        <importOrderId>PN001</importOrderId>
+        <productId>PRD003</productId>
+        <productName>Aquafina</productName>
+        <quantity>30</quantity>
+        <totalPrice>180000</totalPrice>
+        <unitPrice>6000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP004</id>
+        <importOrderId>PN001</importOrderId>
+        <productId>PRD004</productId>
+        <productName>Bánh Oreo</productName>
+        <quantity>15</quantity>
+        <totalPrice>300000</totalPrice>
+        <unitPrice>20000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP005</id>
+        <importOrderId>PN001</importOrderId>
+        <productId>PRD005</productId>
+        <productName>Kẹo Mentos</productName>
+        <quantity>20</quantity>
+        <totalPrice>300000</totalPrice>
+        <unitPrice>15000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP006</id>
+        <importOrderId>PN002</importOrderId>
+        <productId>PRD006</productId>
+        <productName>Chocolate Ferrero</productName>
+        <quantity>15</quantity>
+        <totalPrice>450000</totalPrice>
+        <unitPrice>30000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP007</id>
+        <importOrderId>PN002</importOrderId>
+        <productId>PRD007</productId>
+        <productName>Mì Hảo Hảo</productName>
+        <quantity>100</quantity>
+        <totalPrice>350000</totalPrice>
+        <unitPrice>3500</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP008</id>
+        <importOrderId>PN002</importOrderId>
+        <productId>PRD008</productId>
+        <productName>Mì Kokomi</productName>
+        <quantity>80</quantity>
+        <totalPrice>320000</totalPrice>
+        <unitPrice>4000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP009</id>
+        <importOrderId>PN002</importOrderId>
+        <productId>PRD009</productId>
+        <productName>Mì Omachi</productName>
+        <quantity>50</quantity>
+        <totalPrice>250000</totalPrice>
+        <unitPrice>5000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP010</id>
+        <importOrderId>PN002</importOrderId>
+        <productId>PRD010</productId>
+        <productName>Sữa Vinamilk</productName>
+        <quantity>20</quantity>
+        <totalPrice>800000</totalPrice>
+        <unitPrice>40000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP011</id>
+        <importOrderId>PN003</importOrderId>
+        <productId>PRD011</productId>
+        <productName>Sữa TH True Milk</productName>
+        <quantity>15</quantity>
+        <totalPrice>570000</totalPrice>
+        <unitPrice>38000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP012</id>
+        <importOrderId>PN003</importOrderId>
+        <productId>PRD012</productId>
+        <productName>Sữa Dutch Lady</productName>
+        <quantity>20</quantity>
+        <totalPrice>700000</totalPrice>
+        <unitPrice>35000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP013</id>
+        <importOrderId>PN003</importOrderId>
+        <productId>PRD013</productId>
+        <productName>Nước mắm Nam Ngư</productName>
+        <quantity>25</quantity>
+        <totalPrice>625000</totalPrice>
+        <unitPrice>25000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP014</id>
+        <importOrderId>PN003</importOrderId>
+        <productId>PRD014</productId>
+        <productName>Tương ớt Chin-su</productName>
+        <quantity>30</quantity>
+        <totalPrice>540000</totalPrice>
+        <unitPrice>18000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP015</id>
+        <importOrderId>PN003</importOrderId>
+        <productId>PRD015</productId>
+        <productName>Dầu ăn Neptune</productName>
+        <quantity>35</quantity>
+        <totalPrice>420000</totalPrice>
+        <unitPrice>12000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP016</id>
+        <importOrderId>PN004</importOrderId>
+        <productId>PRD001</productId>
+        <productName>Coca Cola</productName>
+        <quantity>40</quantity>
+        <totalPrice>480000</totalPrice>
+        <unitPrice>12000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP017</id>
+        <importOrderId>PN004</importOrderId>
+        <productId>PRD002</productId>
+        <productName>Pepsi</productName>
+        <quantity>45</quantity>
+        <totalPrice>450000</totalPrice>
+        <unitPrice>10000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP018</id>
+        <importOrderId>PN004</importOrderId>
+        <productId>PRD003</productId>
+        <productName>Aquafina</productName>
+        <quantity>50</quantity>
+        <totalPrice>300000</totalPrice>
+        <unitPrice>6000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP019</id>
+        <importOrderId>PN004</importOrderId>
+        <productId>PRD004</productId>
+        <productName>Bánh Oreo</productName>
+        <quantity>25</quantity>
+        <totalPrice>500000</totalPrice>
+        <unitPrice>20000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP020</id>
+        <importOrderId>PN004</importOrderId>
+        <productId>PRD005</productId>
+        <productName>Kẹo Mentos</productName>
+        <quantity>30</quantity>
+        <totalPrice>450000</totalPrice>
+        <unitPrice>15000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP021</id>
+        <importOrderId>PN005</importOrderId>
+        <productId>PRD006</productId>
+        <productName>Chocolate Ferrero</productName>
+        <quantity>25</quantity>
+        <totalPrice>750000</totalPrice>
+        <unitPrice>30000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP022</id>
+        <importOrderId>PN005</importOrderId>
+        <productId>PRD007</productId>
+        <productName>Mì Hảo Hảo</productName>
+        <quantity>120</quantity>
+        <totalPrice>420000</totalPrice>
+        <unitPrice>3500</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP023</id>
+        <importOrderId>PN005</importOrderId>
+        <productId>PRD008</productId>
+        <productName>Mì Kokomi</productName>
+        <quantity>100</quantity>
+        <totalPrice>400000</totalPrice>
+        <unitPrice>4000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP024</id>
+        <importOrderId>PN005</importOrderId>
+        <productId>PRD009</productId>
+        <productName>Mì Omachi</productName>
+        <quantity>80</quantity>
+        <totalPrice>400000</totalPrice>
+        <unitPrice>5000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP025</id>
+        <importOrderId>PN005</importOrderId>
+        <productId>PRD010</productId>
+        <productName>Sữa Vinamilk</productName>
+        <quantity>30</quantity>
+        <totalPrice>1200000</totalPrice>
+        <unitPrice>40000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP026</id>
+        <importOrderId>PN006</importOrderId>
+        <productId>PRD011</productId>
+        <productName>Sữa TH True Milk</productName>
+        <quantity>20</quantity>
+        <totalPrice>760000</totalPrice>
+        <unitPrice>38000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP027</id>
+        <importOrderId>PN006</importOrderId>
+        <productId>PRD012</productId>
+        <productName>Sữa Dutch Lady</productName>
+        <quantity>25</quantity>
+        <totalPrice>875000</totalPrice>
+        <unitPrice>35000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP028</id>
+        <importOrderId>PN006</importOrderId>
+        <productId>PRD013</productId>
+        <productName>Nước mắm Nam Ngư</productName>
+        <quantity>30</quantity>
+        <totalPrice>750000</totalPrice>
+        <unitPrice>25000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP029</id>
+        <importOrderId>PN006</importOrderId>
+        <productId>PRD014</productId>
+        <productName>Tương ớt Chin-su</productName>
+        <quantity>35</quantity>
+        <totalPrice>630000</totalPrice>
+        <unitPrice>18000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP030</id>
+        <importOrderId>PN006</importOrderId>
+        <productId>PRD015</productId>
+        <productName>Dầu ăn Neptune</productName>
+        <quantity>40</quantity>
+        <totalPrice>480000</totalPrice>
+        <unitPrice>12000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP031</id>
+        <importOrderId>PN007</importOrderId>
+        <productId>PRD001</productId>
+        <productName>Coca Cola</productName>
+        <quantity>30</quantity>
+        <totalPrice>360000</totalPrice>
+        <unitPrice>12000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP032</id>
+        <importOrderId>PN007</importOrderId>
+        <productId>PRD002</productId>
+        <productName>Pepsi</productName>
+        <quantity>35</quantity>
+        <totalPrice>350000</totalPrice>
+        <unitPrice>10000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP033</id>
+        <importOrderId>PN007</importOrderId>
+        <productId>PRD003</productId>
+        <productName>Aquafina</productName>
+        <quantity>40</quantity>
+        <totalPrice>240000</totalPrice>
+        <unitPrice>6000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP034</id>
+        <importOrderId>PN007</importOrderId>
+        <productId>PRD004</productId>
+        <productName>Bánh Oreo</productName>
+        <quantity>20</quantity>
+        <totalPrice>400000</totalPrice>
+        <unitPrice>20000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP035</id>
+        <importOrderId>PN007</importOrderId>
+        <productId>PRD005</productId>
+        <productName>Kẹo Mentos</productName>
+        <quantity>25</quantity>
+        <totalPrice>375000</totalPrice>
+        <unitPrice>15000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP036</id>
+        <importOrderId>PN008</importOrderId>
+        <productId>PRD006</productId>
+        <productName>Chocolate Ferrero</productName>
+        <quantity>20</quantity>
+        <totalPrice>600000</totalPrice>
+        <unitPrice>30000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP037</id>
+        <importOrderId>PN008</importOrderId>
+        <productId>PRD007</productId>
+        <productName>Mì Hảo Hảo</productName>
+        <quantity>150</quantity>
+        <totalPrice>525000</totalPrice>
+        <unitPrice>3500</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP038</id>
+        <importOrderId>PN008</importOrderId>
+        <productId>PRD008</productId>
+        <productName>Mì Kokomi</productName>
+        <quantity>120</quantity>
+        <totalPrice>480000</totalPrice>
+        <unitPrice>4000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP039</id>
+        <importOrderId>PN008</importOrderId>
+        <productId>PRD009</productId>
+        <productName>Mì Omachi</productName>
+        <quantity>90</quantity>
+        <totalPrice>450000</totalPrice>
+        <unitPrice>5000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP040</id>
+        <importOrderId>PN008</importOrderId>
+        <productId>PRD010</productId>
+        <productName>Sữa Vinamilk</productName>
+        <quantity>25</quantity>
+        <totalPrice>1000000</totalPrice>
+        <unitPrice>40000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP041</id>
+        <importOrderId>PN009</importOrderId>
+        <productId>PRD011</productId>
+        <productName>Sữa TH True Milk</productName>
+        <quantity>30</quantity>
+        <totalPrice>1140000</totalPrice>
+        <unitPrice>38000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP042</id>
+        <importOrderId>PN009</importOrderId>
+        <productId>PRD012</productId>
+        <productName>Sữa Dutch Lady</productName>
+        <quantity>25</quantity>
+        <totalPrice>875000</totalPrice>
+        <unitPrice>35000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP043</id>
+        <importOrderId>PN009</importOrderId>
+        <productId>PRD013</productId>
+        <productName>Nước mắm Nam Ngư</productName>
+        <quantity>35</quantity>
+        <totalPrice>875000</totalPrice>
+        <unitPrice>25000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP044</id>
+        <importOrderId>PN009</importOrderId>
+        <productId>PRD014</productId>
+        <productName>Tương ớt Chin-su</productName>
+        <quantity>40</quantity>
+        <totalPrice>720000</totalPrice>
+        <unitPrice>18000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP045</id>
+        <importOrderId>PN009</importOrderId>
+        <productId>PRD015</productId>
+        <productName>Dầu ăn Neptune</productName>
+        <quantity>45</quantity>
+        <totalPrice>540000</totalPrice>
+        <unitPrice>12000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP046</id>
+        <importOrderId>PN010</importOrderId>
+        <productId>PRD001</productId>
+        <productName>Coca Cola</productName>
+        <quantity>35</quantity>
+        <totalPrice>420000</totalPrice>
+        <unitPrice>12000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP047</id>
+        <importOrderId>PN010</importOrderId>
+        <productId>PRD002</productId>
+        <productName>Pepsi</productName>
+        <quantity>40</quantity>
+        <totalPrice>400000</totalPrice>
+        <unitPrice>10000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP048</id>
+        <importOrderId>PN010</importOrderId>
+        <productId>PRD003</productId>
+        <productName>Aquafina</productName>
+        <quantity>45</quantity>
+        <totalPrice>270000</totalPrice>
+        <unitPrice>6000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP049</id>
+        <importOrderId>PN010</importOrderId>
+        <productId>PRD004</productId>
+        <productName>Bánh Oreo</productName>
+        <quantity>25</quantity>
+        <totalPrice>500000</totalPrice>
+        <unitPrice>20000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP050</id>
+        <importOrderId>PN010</importOrderId>
+        <productId>PRD005</productId>
+        <productName>Kẹo Mentos</productName>
+        <quantity>30</quantity>
+        <totalPrice>450000</totalPrice>
+        <unitPrice>15000</unitPrice>
+    </importOrderDetail>
+    <importOrderDetail>
+        <id>IMP00051</id>
+        <importOrderId>PN004</importOrderId>
+        <productId>PRD013</productId>
+        <productName>Nước mắm Nam Ngư</productName>
+        <quantity>10</quantity>
+        <totalPrice>100000.0</totalPrice>
+        <unitPrice>10000</unitPrice>
+    </importOrderDetail>
+</importOrderDetails>
